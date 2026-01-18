@@ -90,8 +90,8 @@ As consultas utilizam:
 - Projections (DTOs)
 
 ---
-
-### 📦 Estrutura de Pacotes
+```TEXT
+📦 Estrutura de Pacotes
 
 com.investcore
  ├── controller
@@ -103,7 +103,7 @@ com.investcore
  │   └── dto
  ├── config
  └── exception
-
+```
 ⚙️ Configuração do Projeto
 Pré-requisitos
 •	Java 21+
@@ -154,18 +154,18 @@ ________________________________________
 
 - Resolução do problema:
   
-•	Gestão dos investimentos em ações em uma única sistema
-•	Projetar uma cultura de investimento em ações
-•	Prever movimentações (ganho de dividendos, JCP e bonificações) para cada ação na carteira de investimento
-•	Aplicar modelagem de dados com base nas movimentações financeira do cliente
+  - Gestão dos investimentos em ações em uma única sistema
+  - Projetar uma cultura de investimento em ações
+  - Prever movimentações (ganho de dividendos, JCP e bonificações) para cada ação na carteira de investimento
+  - Aplicar modelagem de dados com base nas movimentações financeira do cliente
 
 - Técnica e Profissional:
   
-•	Estudo de pré requisito com base na regra de negócio
-•	Demonstrar domínio em JAVA com Spring Boot
-•	Demonstrar domínio de consultas Queries mais avançada
-•	Aprimorar conhecimento em tecnologia com Docker e AWS
-•	Servir como projeto de portfólio profissional
+  - Estudo de pré requisito com base na regra de negócio
+  - Demonstrar domínio em JAVA com Spring Boot
+  - Demonstrar domínio de consultas Queries mais avançada
+  - Aprimorar conhecimento em tecnologia com Docker e AWS
+  - Servir como projeto de portfólio profissional
 ________________________________________
 
 👨‍💻 Autor
