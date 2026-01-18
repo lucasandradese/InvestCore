@@ -63,7 +63,7 @@ A relação N:N entre usuários e ativos é resolvida através da entidade **Tra
 
 ### Tecnologias Utilizadas
 
-- **Java 21**
+- **Java**
 - **Spring Boot**
 - **Spring Data JPA**
 - **Hibernate**
@@ -103,7 +103,7 @@ com.investcore
  │   └── dto
  ├── config
  └── exception
-```
+
 ⚙️ Configuração do Projeto
 Pré-requisitos
 •	Java 21+
@@ -142,7 +142,7 @@ ________________________________________
 🧪 Testes
 •	Testes de serviço focados em regras financeiras
 ________________________________________
-
+```
 ## 🖥️ Front End web
 
 - iniciar o front quando completar a estrutura do banckend.
@@ -168,11 +168,11 @@ ________________________________________
   - Servir como projeto de portfólio profissional
 ________________________________________
 
-👨‍💻 Autor
-Lucas Andrade
-Desenvolvedor Java | Spring Boot | APIs REST
+## Autor
+**Lucas Andrade**
+  - Desenvolvedor Java | Spring Boot | APIs REST
 ________________________________________
 
 📄 Licença
-Este projeto está sob a licença MIT.
+ Este projeto está sob a licença MIT.
 
