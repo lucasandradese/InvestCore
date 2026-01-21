@@ -2,7 +2,7 @@
 
 ## 📈 InvestCore
 
-**InvestCore** é uma FULL STACK para gerenciamento de carteira de investimentos focando em ações, permitindo o controle de operações (compra e venda), cálculo de posição atual, dividendos recebidos e rentabilidade do investidor.
+**InvestCore**  é uma API REST para gerenciamento de carteira de investimentos, permitindo o controle de operações (compra e venda), cálculo de posição atual, dividendos recebidos e rentabilidade do investidor.
 
 **Projeto criado em arquitetura em camadas para modelagem financeira**
 
@@ -143,10 +143,6 @@ ________________________________________
 •	Testes de serviço focados em regras financeiras
 ________________________________________
 ```
-## 🖥️ Front End web
-
-- iniciar o front quando completar a estrutura do banckend.
-
 
 ### Motivos para criação do projeto 
 
@@ -167,6 +163,10 @@ ________________________________________
   - Aprimorar conhecimento em tecnologia com Docker e AWS
   - Servir como projeto de portfólio profissional
 ________________________________________
+
+- Futuras implementações
+ #### 🖥️ Front End web
+  -- Implementar com React ou Angular.
 
 ## Autor
 **Lucas Andrade**
